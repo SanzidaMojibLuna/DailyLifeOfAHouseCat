@@ -17,4 +17,8 @@ Press left mouse button - Night mode will be on and moon will appear
 
 # Project Demo
 
-![demo](https://github.com/SanzidaMojibLuna/DailyLifeOfAHouseCat/blob/master/life_of_a_house_cat.mp4?raw=true)
+
+
+https://user-images.githubusercontent.com/41986331/131257547-7196f0ed-e6eb-42bd-b0ca-81f7be02d6a6.mp4
+
+
