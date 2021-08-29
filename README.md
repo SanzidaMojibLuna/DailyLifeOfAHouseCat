@@ -14,3 +14,7 @@ Press w - Pusheen will go back to its initial position on sofa with a cat song p
 Press right mouse button - Day mode will be on and sun will rise 
 
 Press left mouse button - Night mode will be on and moon will appear
+
+# Project Demo
+
+![demo](https://github.com/SanzidaMojibLuna/DailyLifeOfAHouseCat/blob/master/life_of_a_house_cat.mp4?raw=true)
